@@ -1,22 +1,22 @@
 # KnightDash at Calvin University
 
-Currently, the only options for students and faculty who cannot or prefer not to visit the dining halls are to go hungry, to order delivery from an outside company, or to use the Eatable app to order pickup (and perhaps beg a friend to deliver it). Our solution, KnightDash, will be a food ordering and delivery system designed as an intracampus solution for Calvin University. 
+Currently, the only options for Calvin students and faculty who cannot or prefer not to visit the dining halls are to go hungry, to order delivery from an outside company, or to use the Eatable app to order pickup (and perhaps beg a friend to deliver it). 
 
-This application will seek to address these shortcomings, with its primary functions being:
+Our solution, KnightDash, will be an intracampus food ordering and delivery system designed to address these shortcomings by providing the following features: 
 
-* to provide students and faculty with a simple and efficient way of ordering and receiving food
+* providing students and faculty with a simple and efficient way of ordering and receiving food
 
-* to allow enterprising students to make money on campus while simultaneously providing a service
+* allowing enterprising students to make money by providing a useful service
 
-* to increase revenue for dining halls by adding a flexible purchasing option
+* increasing revenue for dining halls by adding a flexible purchasing option
 
-* to benefit Calvin by keeping most food revenue streams within its community.
+* benefiting Calvin by keeping most food revenue streams within its community.
 
 By remaining specialized to Calvin, KnightDash will be able to perform efficiently without being heavily reliant on the number of people interacting with it. In addition, unlike major competitors such as DoorDash, KnightDash will be able to provide inexpensive delivery fees while reducing delivery time by remaining primarily intracampus. 
 
 
-## Developers&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Githubs                 
-* Nathan Minderhoud&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;https://github.com/mindysport
-* Jacob Williams&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;https://github.com/jacob-williams14
-* Alex Brannen&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;https://github.com/amb249
-* Taekyung Jeong (Chris)&ensp;&ensp;&ensp;&ensp;&ensp;https://github.com/ChrisJeong2383
+## Developers                
+* [Nathan Minderhoud](https://github.com/mindysport)
+* [Jacob Williams](https://github.com/jacob-williams14)
+* [Alex Brannen](https://github.com/amb249)
+* [Taekyung Jeong (Chris)](https://github.com/ChrisJeong2383)
