@@ -14,6 +14,13 @@ Our solution, KnightDash, will be an intracampus food ordering and delivery syst
 
 By remaining specialized to Calvin, KnightDash will be able to perform efficiently without being heavily reliant on the number of people interacting with it. In addition, unlike major competitors such as DoorDash, KnightDash will be able to provide inexpensive delivery fees while reducing delivery time by remaining primarily intracampus. 
 
+## Documents
+* **Design Models**
+    * [UML Diagram](https://github.com/calvin-cs262-fall2021-teamB/Project/blob/main/design_models/KnightDash_UML.png)
+    * [User Flow](https://github.com/calvin-cs262-fall2021-teamB/Project/blob/main/design_models/KnightDash_User_Flow.jpg)
+    * [Figma UI design](https://github.com/calvin-cs262-fall2021-teamB/Project/blob/main/design_models/figmaDesignImages.png)
+* **Presentation Materials**
+* **Other Documents**
 
 ## Developers                
 * [Nathan Minderhoud](https://github.com/mindysport)
