@@ -16,7 +16,7 @@ By remaining specialized to Calvin, KnightDash will be able to perform efficient
 
 ## Documents
 * **Design Models**
-    * [UML Diagram](https://github.com/calvin-cs262-fall2021-teamB/Project/blob/main/design_models/KnightDash_UML.png)
+    * [Domain Model](https://github.com/calvin-cs262-fall2021-teamB/Project/blob/main/design_models/KnightDash_DesignModel.png)
     * [User Flow](https://github.com/calvin-cs262-fall2021-teamB/Project/blob/main/design_models/KnightDash_User_Flow.jpg)
     * [Figma UI design](https://github.com/calvin-cs262-fall2021-teamB/Project/blob/main/design_models/figmaDesignImages.png)
 * **Presentation Materials**
