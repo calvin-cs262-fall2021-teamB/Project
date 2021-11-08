@@ -2,7 +2,7 @@
 
 Currently, the only options for Calvin students and faculty who cannot or prefer not to visit the dining halls are to go hungry, to order delivery from an outside company, or to use the Eatable app to order pickup (and perhaps beg a friend to deliver it). 
 
-Our solution, KnightDash, will be an intracampus food ordering and delivery system designed to address these shortcomings by providing the following features: 
+Our solution, KnightDash, will address these shortcomings by providing an intracampus food ordering and delivery system with the following features: 
 
 * providing students and faculty with a simple and efficient way of ordering and receiving food
 
