@@ -21,7 +21,8 @@ By remaining specialized to Calvin, KnightDash will be able to perform efficient
     * [Figma UI design](https://github.com/calvin-cs262-fall2021-teamB/Project/blob/main/design_models/figmaDesignImages.png)
     * [Deployment Diagram](https://github.com/calvin-cs262-fall2021-teamB/Project/blob/usability/design_models/knightDashDeploymentModel.xml)
 * **Presentation Materials**
-    * [PowerPoint Presentation](https://github.com/calvin-cs262-fall2021-teamB/Project/blob/testScript/KnightDash%20Design%20Presentation.pdf)
+    * [Design Presentation](https://github.com/calvin-cs262-fall2021-teamB/Project/blob/testScript/KnightDash%20Design%20Presentation.pdf)
+    * [Final Presentation](https://github.com/calvin-cs262-fall2021-teamB/Project/blob/updateDeploymentDiagram/KnightDash%20Final%20Presentation.pdf)
 * **Other Documents**
     * [Usability Test Script](https://github.com/calvin-cs262-fall2021-teamB/Project/blob/testScript/knightDashUserTestScript.docx)
     * [Usability Test Report](https://github.com/calvin-cs262-fall2021-teamB/Project/blob/usability/Usability%20Test%20Report.docx)
